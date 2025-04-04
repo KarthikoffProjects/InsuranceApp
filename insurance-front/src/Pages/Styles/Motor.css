@@ -1,0 +1,57 @@
+
+.motor-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Card Design */
+  .card3 {
+    background: grey;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 280px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: center;
+    border: 1px solid #e0e0e0;
+  }
+  
+  /* Hover Effect */
+  .card3:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Title */
+  .card3-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+    margin-bottom: 10px;
+  }
+  
+  /* Term & Expiry */
+  .card3-term, .card3-expiry {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 8px;
+  }
+  /* motor heading */
+  .motor-heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: green;
+    color: #fff;
+  }
+  /* Responsive */
+  @media (max-width: 768px) {
+    .travel-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  

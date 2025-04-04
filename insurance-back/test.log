@@ -1,0 +1,305 @@
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-03-25T10:12:41.337Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-03-25T10:12:41.419Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:16:59.898Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:17:29.298Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Sundarvignesh','Sundar123','29')","timestamp":"2025-03-25T10:17:57.565Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Sundarvignesh','Sundar123','29')","timestamp":"2025-03-25T10:22:48.861Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:28:46.105Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:28:48.515Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:28:52.554Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:30:30.204Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Sundarvignesh','Sundar123','30')","timestamp":"2025-03-25T10:30:46.480Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Sundarvignesh','Sundar123','30')","timestamp":"2025-03-25T10:38:37.693Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Karthikeyan','karthi123','25')","timestamp":"2025-03-25T10:42:48.635Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Sundarvignesh','sundar123','30')","timestamp":"2025-03-25T10:45:44.757Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Sundarvignesh','sundar123','30')","timestamp":"2025-03-25T10:46:18.011Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:47:49.380Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:48:03.811Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-03-25T10:49:57.724Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-03-25T10:49:57.780Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T10:50:38.776Z"}
+{"0":"Sundarvignesh","1":"sundar123","2":"30","level":"info","message":"Inserting user:","timestamp":"2025-03-25T10:50:54.083Z"}
+{"code":"ER_DATA_TOO_LONG","errno":1406,"level":"error","message":"Error inserting user Data too long for column 'Password' at row 1","sql":"INSERT INTO loginusers (Name, Password, Age) VALUES ('Sundarvignesh', 'sundar123', '30')","sqlMessage":"Data too long for column 'Password' at row 1","sqlState":"22001","stack":"Error: Data too long for column 'Password' at row 1\n    at Packet.asError (D:\\Experiments Trial\\insuranceapp\\insurance-back\\node_modules\\mysql2\\lib\\packets\\packet.js:740:17)\n    at Query.execute (D:\\Experiments Trial\\insuranceapp\\insurance-back\\node_modules\\mysql2\\lib\\commands\\command.js:29:26)\n    at Connection.handlePacket (D:\\Experiments Trial\\insuranceapp\\insurance-back\\node_modules\\mysql2\\lib\\base\\connection.js:475:34)\n    at PacketParser.onPacket (D:\\Experiments Trial\\insuranceapp\\insurance-back\\node_modules\\mysql2\\lib\\base\\connection.js:93:12)\n    at PacketParser.executeStart (D:\\Experiments Trial\\insuranceapp\\insurance-back\\node_modules\\mysql2\\lib\\packet_parser.js:75:16)\n    at Socket.<anonymous> (D:\\Experiments Trial\\insuranceapp\\insurance-back\\node_modules\\mysql2\\lib\\base\\connection.js:100:25)\n    at Socket.emit (node:events:524:28)\n    at addChunk (node:internal/streams/readable:561:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)\n    at Readable.push (node:internal/streams/readable:392:5)","timestamp":"2025-03-25T10:50:54.091Z"}
+{"0":"Sundarvignesh","1":"sundar1","2":"30","level":"info","message":"Inserting user:","timestamp":"2025-03-25T10:52:18.831Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-03-25T10:52:18.885Z"}
+{"0":"Sundarvignesh","1":"sundar1","2":"30","level":"info","message":"Inserting user:","timestamp":"2025-03-25T10:52:26.495Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-03-25T10:52:26.520Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-03-25T11:22:09.779Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-03-25T11:22:09.825Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:24:51.989Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:24:55.401Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:25:27.611Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:25:33.919Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:27:59.261Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:28:20.287Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:28:24.739Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:28:39.926Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:28:45.569Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:28:46.780Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:28:57.458Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:30:35.251Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:30:38.471Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:30:56.704Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:31:18.943Z"}
+{"level":"info","message":"Query:","timestamp":"2025-03-25T11:31:54.090Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-01T12:50:51.177Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-01T12:50:51.452Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T12:52:02.404Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T12:52:23.925Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T13:11:52.225Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T13:11:55.262Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T13:11:58.490Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T13:40:39.757Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T13:46:21.996Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T13:46:25.493Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T13:46:28.228Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:15:16.191Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:15:19.349Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:15:53.079Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:15:54.677Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:17:30.793Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:17:35.069Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:17:38.185Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:18:05.297Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:18:51.924Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:19:04.688Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:19:06.540Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:21:33.830Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:23:46.478Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:24:19.821Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-01T14:25:56.626Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-01T14:25:56.836Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:26:03.105Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T14:26:55.049Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-01T17:10:22.517Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-01T17:10:22.567Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:13:52.882Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:14:05.965Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T17:14:12.104Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:15:29.891Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:15:35.933Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:15:42.633Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:18:32.315Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:20:47.932Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:22:52.348Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:23:24.416Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:24:09.693Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:24:13.790Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:24:51.643Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:25:08.381Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:26:35.989Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:26:39.905Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:26:43.921Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:27:26.344Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:27:29.662Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:27:46.079Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:30:10.308Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:30:13.379Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:33:22.457Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:36:26.102Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:37:07.899Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:37:42.885Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:38:20.778Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:41:20.831Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:41:32.836Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:41:53.830Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:42:46.836Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:43:34.375Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:43:40.425Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:43:55.415Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:43:59.630Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T17:55:13.613Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Shivan','god123','100')","timestamp":"2025-04-01T18:00:30.960Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Shanmuganathan','shanchi','55')","timestamp":"2025-04-01T18:04:26.389Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T18:09:15.387Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T18:09:19.702Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T18:09:58.068Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T18:14:06.791Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T18:14:45.885Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T18:15:08.042Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T18:19:19.963Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T18:30:30.845Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-01T18:34:43.756Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-01T18:34:43.805Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:35:10.280Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:35:42.353Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:35:52.419Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:36:11.745Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:37:15.920Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:41:06.298Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:42:21.414Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:42:53.681Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T18:54:20.423Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-01T18:54:25.012Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-01T18:54:49.659Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T18:58:04.429Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Chitra','chithu','50')","timestamp":"2025-04-01T18:58:25.357Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T18:59:13.675Z"}
+{"level":"info","message":"INSERT INTO loginusers VALUES('Shanmuganathan','shan123','55')","timestamp":"2025-04-01T19:01:01.025Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-01T19:03:00.230Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-01T19:03:00.278Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:03:11.762Z"}
+{"0":"Shanmuganathan","1":"shanchi","2":"55","level":"info","message":"Inserting user:","timestamp":"2025-04-01T19:03:51.983Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-04-01T19:03:51.992Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:05:56.857Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:06:42.008Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-01T19:06:48.122Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T19:06:50.686Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:07:20.707Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:07:39.211Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:00.373Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-01T19:09:08.539Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T19:09:11.107Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:14.910Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:29.386Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:30.613Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:48.159Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:48.752Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:49.124Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:49.332Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:09:49.516Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:10:11.298Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:11:34.948Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:11:35.850Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:11:36.281Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:11:36.495Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:11:39.431Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-01T19:11:41.880Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T19:11:44.588Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:11:47.674Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:13:32.138Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:13:50.803Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:14:21.307Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-01T19:19:00.876Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:19:04.117Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-01T19:19:07.184Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:19:11.923Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:19:15.240Z"}
+{"0":"Chitra","1":"chithu","2":"50","level":"info","message":"Inserting user:","timestamp":"2025-04-01T19:19:39.054Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-04-01T19:19:39.089Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:36:47.058Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:36:47.072Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:36:51.258Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:36:51.274Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:36:53.840Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:37:50.513Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:37:58.482Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:37:58.501Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-01T19:38:00.109Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:38:56.233Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-01T19:38:59.703Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T05:04:59.832Z"}
+{"code":"ECONNREFUSED","fatal":true,"level":"error","message":"Error connecting","stack":"AggregateError [ECONNREFUSED]: \n    at internalConnectMultiple (node:net:1139:18)\n    at afterConnectMultiple (node:net:1712:7)","timestamp":"2025-04-02T05:04:59.839Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:05:30.121Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:06:18.888Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:06:22.841Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:06:23.717Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:06:24.076Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:06:24.366Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:06:24.760Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:06:26.206Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:07:01.849Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:07:03.977Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:07:04.774Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T05:07:12.319Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T05:07:14.693Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T05:07:59.655Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T05:07:59.710Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:08:36.498Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T05:08:47.238Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T05:09:36.398Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T05:13:09.395Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:13:15.848Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T05:13:28.137Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T05:18:29.948Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:20:39.928Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:20:55.318Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:21:09.754Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:21:28.716Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:21:52.246Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T05:27:58.638Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T05:28:03.953Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:28:16.801Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T05:37:10.681Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T05:37:16.858Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T05:37:21.583Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T05:37:25.392Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T05:37:28.184Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T06:19:47.968Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T06:19:48.017Z"}
+{"level":"info","message":"User logged in: Sundarvignesh","timestamp":"2025-04-02T06:20:43.691Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T06:27:51.523Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T06:27:51.550Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T06:29:55.727Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T06:29:55.760Z"}
+{"level":"info","message":"User logged in: Sundarvignesh","timestamp":"2025-04-02T06:30:47.781Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T06:32:42.290Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T06:32:42.318Z"}
+{"level":"info","message":"User logged in: Sundarvignesh","timestamp":"2025-04-02T06:33:00.363Z"}
+{"level":"info","message":"User logged in: Sundarvignesh","timestamp":"2025-04-02T06:52:42.959Z"}
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2025-04-02T06:53:23.244Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T06:53:23.270Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T06:54:26.919Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T06:54:26.944Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T06:54:29.582Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T06:54:32.225Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T06:54:36.264Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T07:00:37.211Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T07:00:40.214Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T07:00:44.073Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:00:48.321Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:00:54.752Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:04:06.976Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T07:04:13.528Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T07:04:27.361Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T07:04:34.428Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:04:43.143Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:04:48.573Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:04:53.136Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:05:16.852Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T07:05:32.381Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:07:55.276Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T07:38:16.104Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T08:11:44.869Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T08:11:44.920Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T08:12:01.864Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T08:12:12.747Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T08:12:36.724Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T08:12:38.980Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T08:12:42.501Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T08:12:47.830Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T08:12:53.711Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T08:15:13.693Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T08:15:13.719Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T08:15:17.946Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T08:15:20.967Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T08:15:24.032Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T08:15:27.074Z"}
+{"level":"info","message":"Query3:","timestamp":"2025-04-02T08:36:23.413Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T08:47:56.883Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T08:47:56.959Z"}
+{"level":"info","message":"Query1:","timestamp":"2025-04-02T08:48:28.032Z"}
+{"level":"info","message":"Inserting user:","timestamp":"2025-04-02T08:48:31.061Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-04-02T08:48:31.108Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T08:48:48.305Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T08:49:01.032Z"}
+{"level":"info","message":"Query2:","timestamp":"2025-04-02T08:49:12.681Z"}
+{"level":"info","message":"Query:","timestamp":"2025-04-02T09:11:41.645Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T09:23:14.832Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T09:23:14.885Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T10:26:13.770Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T10:26:13.826Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T10:33:35.087Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T10:33:35.140Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T10:51:01.573Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T10:51:01.634Z"}
+{"0":"Dineshkumar","1":"dinesh1","2":"24","level":"info","message":"Inserting user:","timestamp":"2025-04-02T10:51:53.258Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-04-02T10:51:53.277Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T13:03:43.476Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T13:03:43.569Z"}
+{"0":"Dineshkumar","1":"dinesh1","level":"info","message":"Inserting user:","timestamp":"2025-04-02T13:51:27.726Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-04-02T13:51:27.859Z"}
+{"level":"info","message":"🚀 Server is running on http://localhost:3000","timestamp":"2025-04-02T17:47:20.411Z"}
+{"level":"info","message":"Connected to MySQL","timestamp":"2025-04-02T17:47:20.456Z"}
+{"0":"Salaikaruppu","1":"Salai","2":"100","level":"info","message":"Inserting user:","timestamp":"2025-04-02T19:04:23.899Z"}
+{"level":"info","message":"User inserted successfully","timestamp":"2025-04-02T19:04:23.988Z"}
